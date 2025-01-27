@@ -49,8 +49,7 @@ JavaScript handles the logic for incrementing, decrementing, and resetting the c
 ## Author
 
 **Ravi Kumar**  
-- [GitHub](https://github.com/mr-ravikumar)  
-- [Twitter](https://twitter.com/mrravikumarr)  
+- [GitHub](https://github.com/mr-ravikumar)   
 - [LinkedIn](https://linkedin.com/in/mrravikumar)  
 - [Portfolio](https://www.mrravikumar.com)
 
